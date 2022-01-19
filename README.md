@@ -1,10 +1,6 @@
 # statistikcalculator
 statistika kalkulator
 
-En-language
-A web-based calculator with the PHP programming language. Made to make it easier to calculate the statistical value of group data.
-
-Id-bahasa
 Sebuah mesin hitung berbasis web dengan bahasa pemrograman php. Dibuat untuk mempermudah dalam menghitung nilai statistik data kelompok. 
 
 saya membuat di usia 17 tahun yang duduk di bangku Sekolah Menengah Kejuruan (SMK) dengan jurusan Teknik Komputer dan Jaringan (TKJ).
